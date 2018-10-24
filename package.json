@@ -1,0 +1,15 @@
+{
+  "name": "codeigniter-starter-pack",
+  "version": "0.0.0",
+  "description": "สำหรับการขึ้นโปรเจคใหม่ใน Codeigniter Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarawut  Inree <sarawut.inree@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
