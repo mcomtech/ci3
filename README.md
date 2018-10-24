@@ -1,15 +1,15 @@
 ###ติดตั้ง node.js
 จากนั้น cd เข้ามายัง พาร์ทนี้
 __________________________________
-|   application                   |
-|   assets                        |
-|   system                        |
-|   .htaccess                     |
-|   index.php                     |
-|   composer.json                 |
-|   package.json                  |
-|   คุณอยู่ตรงนี้     <----------     |
-|__________________________________ 
+|   application<br>
+|   assets<br>
+|   system<br>
+|   .htaccess<br>
+|   index.php<br>
+|   composer.json<br>
+|   package.json<br>
+|   คุณอยู่ตรงนี้ <----------<br>
+|__________________________________ <br>
 
 จากนั้นเรียก cmd ขึ้นมาใช้คำสั่งด้านล่าง
 $npm install
